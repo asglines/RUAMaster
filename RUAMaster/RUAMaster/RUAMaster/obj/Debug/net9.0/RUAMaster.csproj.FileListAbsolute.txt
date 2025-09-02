@@ -1,0 +1,14 @@
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\bin\Debug\net9.0\RUAMaster.exe
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\bin\Debug\net9.0\RUAMaster.deps.json
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\bin\Debug\net9.0\RUAMaster.runtimeconfig.json
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\bin\Debug\net9.0\RUAMaster.dll
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\bin\Debug\net9.0\RUAMaster.pdb
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.AssemblyInfoInputs.cache
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.AssemblyInfo.cs
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.csproj.CoreCompileInputs.cache
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.dll
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\refint\RUAMaster.dll
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.pdb
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\RUAMaster.genruntimeconfig.cache
+C:\Users\aglines\source\repos\RUAMaster\RUAMaster\RUAMaster\obj\Debug\net9.0\ref\RUAMaster.dll
